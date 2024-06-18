@@ -1,3 +1,6 @@
+<img src="portadadoctorado".jpg>
+
+
 - 👋 Hola soy el Mtro. Mario A. Morales Ovando
 - 👀 Estoy interesado en Tecnologías digitales e IA en el ámbito educativo
 - 🌱 Actualmente estoy aprendiendo el uso innovador de la tecnología para mejorar y transformar el proceso de enseñanza y aprendizaje.
