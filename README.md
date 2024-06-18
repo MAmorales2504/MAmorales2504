@@ -1,4 +1,4 @@
-<img src="portadadoctorado.jpg">
+<img src="portadadoctoradonuevo.jpg">
 
 
 - 👋 Hola soy el Mtro. Mario A. Morales Ovando
